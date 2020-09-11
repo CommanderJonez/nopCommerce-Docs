@@ -21,7 +21,7 @@ To add a new product, go to **Catalog → Products**. Click **Add new** button i
 
 ![Add a new product](_static/add-product-for-beginners/add_a_new_product.png)
 
-You can also set up the *basic* mode to choose which exactly fields you want to be required. To do this click the **Settings** button beside the swith. The *Setting* popup will be displayed, as follows:
+You can also set up the *basic* mode to choose which exactly fields you want to be required. To do this click the **Settings** button beside the switch. The *Setting* popup will be displayed, as follows:
 
 ![Settings](_static/add-product-for-beginners/settings.jpg)
 
